@@ -1,0 +1,14 @@
+D:\CS\C#.NET\code\FileIo\FileIo\bin\Debug\netcoreapp3.1\FileIo.exe
+D:\CS\C#.NET\code\FileIo\FileIo\bin\Debug\netcoreapp3.1\FileIo.deps.json
+D:\CS\C#.NET\code\FileIo\FileIo\bin\Debug\netcoreapp3.1\FileIo.runtimeconfig.json
+D:\CS\C#.NET\code\FileIo\FileIo\bin\Debug\netcoreapp3.1\FileIo.runtimeconfig.dev.json
+D:\CS\C#.NET\code\FileIo\FileIo\bin\Debug\netcoreapp3.1\FileIo.dll
+D:\CS\C#.NET\code\FileIo\FileIo\bin\Debug\netcoreapp3.1\FileIo.pdb
+D:\CS\C#.NET\code\FileIo\FileIo\obj\Debug\netcoreapp3.1\FileIo.csproj.AssemblyReference.cache
+D:\CS\C#.NET\code\FileIo\FileIo\obj\Debug\netcoreapp3.1\FileIo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#.NET\code\FileIo\FileIo\obj\Debug\netcoreapp3.1\FileIo.AssemblyInfoInputs.cache
+D:\CS\C#.NET\code\FileIo\FileIo\obj\Debug\netcoreapp3.1\FileIo.AssemblyInfo.cs
+D:\CS\C#.NET\code\FileIo\FileIo\obj\Debug\netcoreapp3.1\FileIo.csproj.CoreCompileInputs.cache
+D:\CS\C#.NET\code\FileIo\FileIo\obj\Debug\netcoreapp3.1\FileIo.dll
+D:\CS\C#.NET\code\FileIo\FileIo\obj\Debug\netcoreapp3.1\FileIo.pdb
+D:\CS\C#.NET\code\FileIo\FileIo\obj\Debug\netcoreapp3.1\FileIo.genruntimeconfig.cache
